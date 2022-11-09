@@ -6,6 +6,7 @@ public class Sample {
 	{
 		System.out.println("Storing tests in git");
 		System.out.println("Storing codes in github");
+		System.out.println("creating branch");
 		
 	}
 

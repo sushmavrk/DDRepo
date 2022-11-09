@@ -6,6 +6,7 @@ public class Sample1 {
 	{
 		System.out.println("hi world");
 		System.out.println("hello world");
+		System.out.println("storing in git");
 		
 	}
 
